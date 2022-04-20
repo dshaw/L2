@@ -1,5 +1,22 @@
 # Meeting Minutes: Technical Specification of General Layer 2 Blockchain Scalability Solutions for EVM-compatible public Blockchains WG
 
+## Meeting Wed, 20 Apr 2022, 7 am PT
+Attending: Andreas Freund, Dan Shaw, Cody Burns
+
+Scribe: Dan Shaw
+
+Agenda
+1) Welcome, and a reminder of WG meeting rules
+2) Selection of scribe
+3) Introduction of new participants
+4) Review of [A DeFi Conundrum: L2s are awesome but they still suck for real financial assets"](https://docs.google.com/document/d/1RCq9XfH8daEQ_djabRIkXXn0LBYdiNBUV9NiH5lZdT4/edit?usp=sharing) and discussion on content and where to publish
+5) Discuss next steps on collaboration with EEA Cross-Chain Interop WG (see new issue on EEA WG Testing Run at the end of Q2 and call for participants)
+6) Open Forum for other items
+
+Notes
+* We forgot that most working group members are in Amsterdam for DevConnect. We'll see everyone in 2 weeks on the 4th. 
+* Meeting adjurned.
+
 ## Meeting Wed, 6 Apr 2022, 1:30 pm PT
 
 Meeting Assets:
